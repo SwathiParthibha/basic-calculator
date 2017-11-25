@@ -1,2 +1,2 @@
 # basic-calculator
-one digit calculator
+One digit calculator in Netbeans IDE
