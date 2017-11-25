@@ -14,8 +14,9 @@ public class BasicCalculator extends javax.swing.JFrame {
     /**
      * Creates new form BasicCalculator
      */
-    int firstNum = 0, secondNum = 0, sum;
+    int firstNum = 0, secondNum = 0, sum, a;
     char operation;
+    int[8] = b;
     
     public BasicCalculator() {
         initComponents();
